@@ -8,7 +8,7 @@ This repository tracks my **6-month journey** from Python developer → Junior A
 ## 📅 Roadmap Timeline (Weeks)
 
 ### ✅ Month 1: Data Foundations
-- [ ] Week 1: NumPy & Pandas Basics → *Titanic EDA*  
+- [X] Week 1: NumPy & Pandas Basics → *Titanic EDA*  
 - [ ] Week 2: Data Visualization & Statistics → *Sales Dashboard*  
 
 ### ✅ Month 2: Core ML
