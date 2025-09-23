@@ -10,7 +10,7 @@ This repository tracks my **6-month journey** from Python developer → Junior A
 ### ✅ Month 1: Data Foundations
 **Week 1: NumPy & Pandas Basics**
 - [x] Day 1 → Setup Jupyter + Titanic EDA (NumPy, Pandas basics)
-- [ ] Day 2 → Data Visualization (Matplotlib/Seaborn intro)
+- [X] Day 2 → Data Visualization (Matplotlib/Seaborn intro)
 - [ ] Day 3 → Titanic Visualization (plots & insights)
 - [ ] Day 4 → Mini Project Cleanup + GitHub push
 - [ ] Day 5 → Challenge: Custom dataset EDA
